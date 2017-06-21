@@ -1,0 +1,9 @@
+{ 
+    "level":12,
+    "chestsCount":5,
+    "startPosition":{
+        "x": 1290,
+        "y": 730
+    },
+    "tiles":"tiles2"
+}
